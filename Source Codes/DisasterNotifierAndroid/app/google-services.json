@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1080367454543",
+    "firebase_url": "https://disasternotifierieeemadc.firebaseio.com",
+    "project_id": "disasternotifierieeemadc",
+    "storage_bucket": "disasternotifierieeemadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080367454543:android:a7a3f557a9e38079",
+        "android_client_info": {
+          "package_name": "gr.teicm.ieee.madc.disasternotifierandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080367454543-b1dtal3b63o7ffcjkr16vke9m47qkdoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fC71-cml-IUxOYtDwbXNgiAQbiQjSOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
