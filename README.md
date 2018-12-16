@@ -29,6 +29,8 @@ We decided to build this application after the deadly fire in Mati (Attica, Gree
 
 # Known bugs
 * Android Sometimes not Detect the user's location
+# Known typos
+* Login page have 'eMail' field. The right label is 'Username'.
 # Promo Video
 [Here](https://youtu.be/DosH1XPek7w)
 # Table required by IEEEMadC 2018
